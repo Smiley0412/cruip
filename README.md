@@ -1,29 +1,3 @@
-# Free React landing page template
-
-![Open React template preview](https://user-images.githubusercontent.com/2683512/78789364-545e7100-79ad-11ea-9e3c-9528c99cda8e.png)
-
-**Open** is a **free React landing page template designed** for developers/makers who want to create a quick and professional landing page for their open source projects, SaaS products, online services, and more.
-
-Use it for whatever you want, and be sure to reach us out on [Twitter](https://twitter.com/Cruip_com) if you build anything cool/useful with it.
-
-Created and maintained with ❤️ by [Cruip.com](https://cruip.com).
-
-## Live demo
-
-Check the live demo here 👉️ [https://open.cruip.com/](https://open.cruip.com/)
-
-## Open PRO
-
-[![Open Pro](https://user-images.githubusercontent.com/2683512/151177673-e56ade57-c98d-4c37-b315-d313bd14bb53.png)](https://cruip.com/)
-
-*The premium template is built on-the-top of [Tailwind CSS](https://tailwindcss.com/), and React components have been re-built from scratch.* 
-
-## Design files
-
-If you need the design files, you can download them from Figma's Community 👉 https://bit.ly/3BjiEtQ
-
-## Table of contents
-
 * [Usage](#usage)
   * [Available Scripts](#available-scripts)
     * [npm start](#npm-start)
@@ -142,4 +116,3 @@ We're an Italian developer/designer duo creating high-quality design/code resour
 ## Stay in the loop
 
 If you would like to know when we release new resources, you can follow us on [Twitter](https://twitter.com/Cruip_com), or you can subscribe to our monthly [newsletter](https://cruip.com/#subscribe).
-"# cruip" 
